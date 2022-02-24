@@ -1,15 +1,14 @@
-# A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
+# A Powerful ᴄʀᴀxʏ Music Bot Property Of marrkmusic Chatting Group
 # Without Credit (Mother Fucker)
-# Rocks © @Dr_Asad_Ali © Rocks
-# Owner Asad Ali
-# Harshit Sharma
+# Owner @K_A_k_A_03
+# co owner @marrk85
 
 
 
 
 import random
 
-from Alexa.Database import get_theme
+from Craxy.Database import get_theme
 
 themes = [
     "blue",
