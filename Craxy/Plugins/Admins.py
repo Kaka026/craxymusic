@@ -1,8 +1,7 @@
-# A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
+# A Powerful ᴄʀᴀxʏ Music Bot Property Of marrkmusic Chatting Group
 # Without Credit (Mother Fucker)
-# Rocks © @Dr_Asad_Ali © Rocks
-# Owner Asad Ali
-# Harshit Sharma
+# Owner @K_A_k_A_03
+# co owner @marrk85
 
 
 
@@ -40,7 +39,7 @@ from Alexa.Utilities.youtube import get_m3u8, get_yt_info_id
 loop = asyncio.get_event_loop()
 
 
-__MODULE__ = "🔉 ᴠᴏɪᴄᴇ ᴄʜᴀᴛ"
+__MODULE__ = "🗣️ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ"
 __HELP__ = """
 
 
@@ -69,7 +68,7 @@ __HELP__ = """
 `/activevideo`
 - ᴄʜᴇᴄᴋ ᴀᴄᴛɪᴠᴇ ᴠɪᴅᴇᴏ ᴄᴀʟʟs ᴏɴ ʙᴏᴛ.
 
-- ᴘᴏᴡᴇʀᴅ ʙʏ 😍 ʀᴏᴄᴋs ᴀɴᴅ @AsadSupport
+- ᴘᴏᴡᴇʀᴅ ʙʏ 😍 ʀᴏᴄᴋs ᴀɴᴅ @K_A_k_A_03
 """
 
 
@@ -84,11 +83,11 @@ async def admins(_, message: Message):
     if not len(message.command) == 1:
         return await message.reply_text("ᴇʀʀᴏʀ ᴡʀᴏɴɢ ᴜsᴀɢᴇ ᴏғ ᴄᴏᴍᴍᴀɴᴅ...")
     if not await is_active_chat(message.chat.id):
-        return await message.reply_text("**ᴘᴇʜʟʏ ᴋᴜᴄʜ ᴄʜᴀʟᴀ ʟʏ ɪᴛᴛᴜ sʏ ɴᴏᴏʙ**...🤣")
+        return await message.reply_text("**ᴘᴇʜʟʏ ᴋᴜᴄʜ ᴄʜᴀʟᴀ ʟʏ ɪᴛᴛᴜ sʏ ɴᴏᴏʙᴅɪ**...🤣")
     chat_id = message.chat.id
     if message.command[0][1] == "a":
         if not await is_music_playing(message.chat.id):
-            return await message.reply_text("ᴍᴜsɪᴄ ɪs ᴀʟʀᴇᴀᴅʏ ᴘᴀᴜsᴇᴅ...")
+            return await message.reply_text("ᴍᴜsɪᴄ ɪs ᴀʟʀᴇᴀᴅʏ ᴘᴀᴜsᴇᴅ ʙᴀʙʏ 🥺...")
         await music_off(chat_id)
         await pause_stream(chat_id)
         await message.reply_text(
@@ -96,7 +95,7 @@ async def admins(_, message: Message):
         )
     if message.command[0][1] == "e":
         if await is_music_playing(message.chat.id):
-            return await message.reply_text("🌸 ᴍᴜsɪᴄ ɪs ᴀʟʀᴇᴀᴅʏ ᴘʟᴀʏɪɴɢ...")
+            return await message.reply_text("🍃 ᴍᴜsɪᴄ ɪs ᴀʟʀᴇᴀᴅʏ ᴘʟᴀʏɪɴɢ ʙᴀʙʏ 😄...")
         await music_on(chat_id)
         await resume_stream(chat_id)
         await message.reply_text(
@@ -172,7 +171,7 @@ async def admins(_, message: Message):
                 final_output = await message.reply_photo(
                     photo=thumb,
                     reply_markup=InlineKeyboardMarkup(buttons),
-                    caption=f"<b>sᴋɪᴘᴘᴇᴅ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ 🥺 </b>\n\n🎥<b>sᴛᴀʀᴛᴇᴅ ᴘʟᴀʏɪɴɢ: 😜</b> [{title[:20]}] \n⏳<b>ᴅᴜʀᴀᴛɪᴏɴ:</b> {duration_min} \n👤<b>ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ:</b> {mention}",
+                    caption=f"<b>sᴋɪᴘᴘᴇᴅ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ʙᴀʙʏ 🥺 </b>\n\n🎥<b>sᴛᴀʀᴛᴇᴅ ᴘʟᴀʏɪɴɢ: 😁</b> [{title[:20]}] \n⏳<b>ᴅᴜʀᴀᴛɪᴏɴ:</b> {duration_min} \n👤<b>ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ:</b> {mention}",
                 )
                 await start_timer(
                     videoid,
@@ -292,7 +291,7 @@ async def admins(_, message: Message):
                     photo=thumb,
                     reply_markup=InlineKeyboardMarkup(buttons),
                     caption=(
-                        f"<b>sᴋɪᴘᴘᴇᴅ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ 🙈</b>\n\n🎥<b>sᴛᴀʀᴛᴇᴅ ᴘʟᴀʏɪɴɢ: 😜</b>[{title[:20]}](https://www.youtube.com/watch?v={videoid}) \n⏳<b>__ᴅᴜʀᴀᴛɪᴏɴ:__</b> {duration_min} ᴍɪɴs\n👤**__ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ:__** {mention}"
+                        f"<b>sᴋɪᴘᴘᴇᴅ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ʙᴀʙʏ 🙈</b>\n\n🎥<b>sᴛᴀʀᴛᴇᴅ ᴘʟᴀʏɪɴɢ: 😁</b>[{title[:20]}](https://www.youtube.com/watch?v={videoid}) \n⏳<b>__ᴅᴜʀᴀᴛɪᴏɴ:__</b> {duration_min} ᴍɪɴs\n👤**__ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ:__** {mention}"
                     ),
                 )
                 os.remove(thumb)
