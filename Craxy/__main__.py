@@ -1,4 +1,4 @@
-# A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
+# A Powerful ᴄʀᴀxʏ Music Bot Property Of Rocks Indian Largest Chatting Group
 # Without Credit (Mother Fucker)
 # Owner @K_A_k_A_03
 # co owner @marrk85
