@@ -1,8 +1,7 @@
-# A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
+# A Powerful ᴄʀᴀxʏ Music Bot Property Of marrkmusic Chatting Group
 # Without Credit (Mother Fucker)
-# Rocks © @Dr_Asad_Ali © Rocks
-# Owner Asad Ali
-# Harshit Sharma
+# Owner @K_A_k_A_03
+# co owner @marrk85
 
 
 
@@ -12,7 +11,7 @@ import socket
 from asyncio import get_running_loop
 from functools import partial
 
-from Alexa import aiohttpsession as session
+from Craxy import aiohttpsession as session
 
 
 def _netcat(host, port, content):
