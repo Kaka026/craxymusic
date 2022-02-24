@@ -1,8 +1,7 @@
-# A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
+# A Powerful ᴄʀᴀxʏ Music Bot Property Of marrkmusic Chatting Group
 # Without Credit (Mother Fucker)
-# Rocks © @Dr_Asad_Ali © Rocks
-# Owner Asad Ali
-# Harshit Sharma
+# Owner @K_A_k_A_03
+# co owner @marrk85
 
 
 
@@ -61,78 +60,78 @@ async def get_formats(CallbackQuery, videoid, user_id, type):
                 j += 1
                 if j == 1:
                     a1 = InlineKeyboardButton(
-                        text=f"ᴀᴜᴅɪᴏ 🎵 {humanbytes(x['filesize'])}",
+                        text=f"ᴀᴜᴅɪᴏ 🎶 {humanbytes(x['filesize'])}",
                         callback_data=f"ytdata audio||{x['format_id']}||{videoid}",
                     )
                 if j == 2:
                     a2 = InlineKeyboardButton(
-                        text=f"ᴀᴜᴅɪᴏ 🎵 {humanbytes(x['filesize'])}",
+                        text=f"ᴀᴜᴅɪᴏ 🎶 {humanbytes(x['filesize'])}",
                         callback_data=f"ytdata audio||{x['format_id']}||{videoid}",
                     )
                 if j == 3:
                     a3 = InlineKeyboardButton(
-                        text=f"ᴀᴜᴅɪᴏ 🎵 {humanbytes(x['filesize'])}",
+                        text=f"ᴀᴜᴅɪᴏ 🎶 {humanbytes(x['filesize'])}",
                         callback_data=f"ytdata audio||{x['format_id']}||{videoid}",
                     )
                 if j == 4:
                     a4 = InlineKeyboardButton(
-                        text=f"ᴀᴜᴅɪᴏ 🎵 {humanbytes(x['filesize'])}",
+                        text=f"ᴀᴜᴅɪᴏ 🎶 {humanbytes(x['filesize'])}",
                         callback_data=f"ytdata audio||{x['format_id']}||{videoid}",
                     )
                 if j == 5:
                     a5 = InlineKeyboardButton(
-                        text=f"ᴀᴜᴅɪᴏ 🎵 {humanbytes(x['filesize'])}",
+                        text=f"ᴀᴜᴅɪᴏ 🎶 {humanbytes(x['filesize'])}",
                         callback_data=f"ytdata audio||{x['format_id']}||{videoid}",
                     )
                 if j == 6:
                     a6 = InlineKeyboardButton(
-                        text=f"ᴀᴜᴅɪᴏ 🎵 {humanbytes(x['filesize'])}",
+                        text=f"ᴀᴜᴅɪᴏ 🎶 {humanbytes(x['filesize'])}",
                         callback_data=f"ytdata audio||{x['format_id']}||{videoid}",
                     )
         elif type == "video":
             if str(133) in check:
                 j += 1
                 a1 = InlineKeyboardButton(
-                    text=f"(240)ᴘ 📹 {humanbytes(x['filesize'])}",
+                    text=f"(240)ᴘ 🎥 {humanbytes(x['filesize'])}",
                     callback_data=f"ytdata video||{x['format_id']}||{videoid}",
                 )
             if str(134) in check:
                 j += 1
                 a2 = InlineKeyboardButton(
-                    text=f"(360)ᴘ 📹 {humanbytes(x['filesize'])}",
+                    text=f"(360)ᴘ 🎥 {humanbytes(x['filesize'])}",
                     callback_data=f"ytdata video||{x['format_id']}||{videoid}",
                 )
             if str(135) in check:
                 j += 1
                 a3 = InlineKeyboardButton(
-                    text=f"(480)ᴘ 📹 {humanbytes(x['filesize'])}",
+                    text=f"(480)ᴘ 🎥 {humanbytes(x['filesize'])}",
                     callback_data=f"ytdata video||{x['format_id']}||{videoid}",
                 )
             if str(136) in check:
                 j += 1
                 a4 = InlineKeyboardButton(
-                    text=f"(720)ᴘ 📹 {humanbytes(x['filesize'])}",
+                    text=f"(720)ᴘ 🎥 {humanbytes(x['filesize'])}",
                     callback_data=f"ytdata video||{x['format_id']}||{videoid}",
                 )
             if str(137) in check:
                 j += 1
                 a5 = InlineKeyboardButton(
-                    text=f"(1080)ᴘ 📹 {humanbytes(x['filesize'])}",
+                    text=f"(1080)ᴘ 🎥 {humanbytes(x['filesize'])}",
                     callback_data=f"ytdata video||{x['format_id']}||{videoid}",
                 )
             if str(313) in check:
                 j += 1
                 a6 = InlineKeyboardButton(
-                    text=f"(2160)ᴘ 📹 {humanbytes(x['filesize'])}",
+                    text=f"(2160)ᴘ 🎥 {humanbytes(x['filesize'])}",
                     callback_data=f"ytdata video||{x['format_id']}||{videoid}",
                 )
         else:
             return await CallbackQuery.message.reply_text(
-                "ᴠɪᴅᴇᴏ ғᴏʀᴍᴀᴛs ɴᴏᴛ ғᴏᴜɴᴅ ᴛʀʏ sᴇᴀʀᴄʜɪɴɢ ᴏᴛʜᴇʀ ᴍᴜsɪᴄ..."
+                "ᴠɪᴅᴇᴏ ғᴏʀᴍᴀᴛs ɴᴏᴛ ғᴏᴜɴᴅ ʙᴀʙʏ ᴛʀʏ sᴇᴀʀᴄʜɪɴɢ ᴏᴛʜᴇʀ ᴍᴜsɪᴄ...😕"
             )
     if j == 0:
         return await CallbackQuery.message.reply_text(
-            "ᴠɪᴅᴇᴏ ғᴏʀᴍᴀᴛs ɴᴏᴛ ғᴏᴜɴᴅ ᴛʀʏ sᴇᴀʀᴄʜɪɴɢ ᴏᴛʜᴇʀ ᴍᴜsɪᴄ..."
+            "ᴠɪᴅᴇᴏ ғᴏʀᴍᴀᴛs ɴᴏᴛ ғᴏᴜɴᴅ ʙᴀʙʏ ᴛʀʏ sᴇᴀʀᴄʜɪɴɢ ᴏᴛʜᴇʀ ᴍᴜsɪᴄ...😕"
         )
     elif j == 1:
         key = InlineKeyboardMarkup(
@@ -265,7 +264,7 @@ async def get_formats(CallbackQuery, videoid, user_id, type):
         )
     else:
         return await CallbackQuery.message.reply_text(
-            "ᴠɪᴅᴇᴏ ғᴏʀᴍᴀᴛs ɴᴏᴛ ғᴏᴜɴᴅ ᴛʀʏ sᴇᴀʀᴄʜɪɴɢ ᴏᴛʜᴇʀ ᴍᴜsɪᴄ..."
+            "ᴠɪᴅᴇᴏ ғᴏʀᴍᴀᴛs ɴᴏᴛ ғᴏᴜɴᴅ ʙᴀʙʏ ᴛʀʏ sᴇᴀʀᴄʜɪɴɢ ᴏᴛʜᴇʀ ᴍᴜsɪᴄ...😕"
         )
     return key
 
