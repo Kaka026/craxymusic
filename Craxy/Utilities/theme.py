@@ -8,7 +8,7 @@
 
 import random
 
-from Craxy.Database import get_theme
+from Alexa.Database import get_theme
 
 themes = [
     "blue",
