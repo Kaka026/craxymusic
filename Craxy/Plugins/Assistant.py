@@ -1,8 +1,7 @@
-# A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
+# A Powerful ᴄʀᴀxʏ Music Bot Property Of marrkmusic Chatting Group
 # Without Credit (Mother Fucker)
-# Rocks © @Dr_Asad_Ali © Rocks
-# Owner Asad Ali
-# Harshit Sharma
+# Owner @K_A_k_A_03
+# co owner @marrk85
 
 
 import random
@@ -18,12 +17,12 @@ from Alexa import SUDOERS, app, random_assistant
 from Alexa.Database import get_assistant, save_assistant
 from Alexa.Utilities.assistant import get_assistant_details
 
-__MODULE__ = "🤞 ᴀssɪsᴛᴀɴᴛ"
+__MODULE__ = "🤞🏻 ᴀssɪsᴛᴀɴᴛ"
 __HELP__ = f"""
 
 
 `/checkassistant`
-- ᴄʜᴇᴄᴋ ᴛʜᴇ ᴀʟʟᴏᴛᴇᴅ ᴀssɪsᴛᴀɴᴛ ᴏғ ʏᴏᴜʀ ᴄʜᴀᴛ
+- ᴄʜᴇᴄᴋ ᴛʜᴇ ᴀʟʟᴏᴛᴇᴅ ᴀssɪsᴛᴀɴᴛ ᴏғ ʏᴏᴜʀ ᴄʜᴀᴛ ʙᴀʙʏ 🖤
 
 
 **ɴᴏᴛᴇ:**
@@ -34,7 +33,7 @@ __HELP__ = f"""
 
 `/setassistant` [ᴀss ɴᴜᴍʙᴇʀ ᴏʀ ʀᴀɴᴅᴏᴍ]
 - sᴇᴛ ᴀ ᴀssɪsᴛᴀɴᴛ ᴀᴄᴄᴏᴜɴᴛ ғᴏʀ ᴄʜᴀᴛ.
-- ᴘᴏᴡᴇʀᴅ ʙʏ 😍 ʀᴏᴄᴋs ᴀɴᴅ @AsadSupport
+- ᴘᴏᴡᴇʀᴅ ʙʏ 😍 ʀᴏᴄᴋs ᴀɴᴅ @K_A_k_A_03
 """
 
 
@@ -84,7 +83,7 @@ async def assis_change(_, message: Message):
     _assistant = await get_assistant(message.chat.id, "assistant")
     if not _assistant:
         await message.reply_text(
-            f"**ᴀʟᴇxᴀ ᴍᴜsɪᴄs ʙᴏᴛ ᴀssɪsᴛᴀɴᴛ ᴀʟʟᴏᴛᴇᴅ__**\n\nᴀssɪsᴛᴀɴᴛ ɴᴏ. **{ran_ass}**"
+            f"**ᴄʀᴀxʏ ᴍᴜsɪᴄs ʙᴏᴛ ᴀssɪsᴛᴀɴᴛ ᴀʟʟᴏᴛᴇᴅ__**\n\nᴀssɪsᴛᴀɴᴛ ɴᴏ. **{ran_ass}**"
         )
         assis = {
             "saveassistant": ran_ass,
