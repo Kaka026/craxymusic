@@ -1,8 +1,7 @@
-# A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
+# A Powerful ᴄʀᴀxʏ Music Bot Property Of marrkmusic Chatting Group
 # Without Credit (Mother Fucker)
-# Rocks © @Dr_Asad_Ali © Rocks
-# Owner Asad Ali
-# Harshit Sharma
+# Owner @K_A_k_A_03
+# co owner @marrk85
 
 
 from pyrogram import filters
@@ -40,7 +39,7 @@ __HELP__ = """
 /delgroupplaylist
 - Delete any saved music in your group's playlist [Requires Admin Rights.]
 
-- ᴘᴏᴡᴇʀᴅ ʙʏ 😍 ʀᴏᴄᴋs ᴀɴᴅ @AsadSupport.
+- ᴘᴏᴡᴇʀᴅ ʙʏ 😍 @marrk85 ᴀɴᴅ @K_A_k_A_03.
 """
 
 
