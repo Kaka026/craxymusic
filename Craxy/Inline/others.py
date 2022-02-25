@@ -1,14 +1,12 @@
-# A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
+# A Powerful ᴄʀᴀxʏ Music Bot Property Of marrkmusic Chatting Group
 # Without Credit (Mother Fucker)
-# Rocks © @Dr_Asad_Ali © Rocks
-# Owner Asad Ali
-# Harshit Sharma
-
+# Owner @K_A_k_A_03
+# co owner @marrk85
 
 from pyrogram.types import (CallbackQuery, InlineKeyboardButton,
                             InlineKeyboardMarkup, InputMediaPhoto, Message)
 
-from Alexa import db_mem
+from Craxy import db_mem
 
 
 def others_markup(videoid, user_id):
