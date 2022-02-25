@@ -1,23 +1,19 @@
-<h1 align="center"><b>❤️ ALEXA MUSIC BOT ❤️</b></h1>
+<h1 align="center"><b>⚡ 𝘾𝙍𝘼𝙓𝙔 ✘ 𝙈𝙐𝙎𝙄𝘾 ⚡</b></h1>
 
-<h4 align="center">Alexa A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
+<h4 align="center">Craxy A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 
-<p align="center"><a href="https://t.me/Dr_Asad_Ali"><img src="https://telegra.ph/file/83a547c997953a4d75d87.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/K_A_k_A_03"><img src="https://te.legra.ph/file/8cd9e81c4f74e2274c014.jpg" width="400"></a></p>
 
 <p align="center">
-    <a href="https://app.codacy.com/manual/jankarikiduniya/AlexaMusicBot/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/jankarikiduniya/AlexaMusicBot"> <img src="https://img.shields.io/github/repo-size/jankarikiduniya/AlexaMusicBot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/jankarikiduniya/AlexaMusicBot/commits/prince"> <img src="https://img.shields.io/github/last-commit/jankarikiduniya/AlexaMusicBot?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/jankarikiduniya/AlexaMusicBot/issues"> <img src="https://img.shields.io/github/issues/jankarikiduniya/AlexaMusicBot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/jankarikiduniya/AlexaMusicBot/network/members"> <img src="https://img.shields.io/github/forks/jankarikiduniya/AlexaMusicBot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://app.codacy.com/manual/Kaka026/craxymusic/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
+    <a href="https://github.com/Kaka026/craxymusic"> <img src="https://img.shields.io/github/repo-size/Kaka026/craxymusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Kaka026/craxymusic/commits/prince"> <img src="https://img.shields.io/github/last-commit/jankarikiduniya/AlexaMusicBot?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Kaka026/craxymusic/issues"> <img src="https://img.shields.io/github/issues/jankarikiduniya/AlexaMusicBot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Kaka026/craxymusic/network/members"> <img src="https://img.shields.io/github/forks/jankarikiduniya/AlexaMusicBot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-> ⭐️ Thanks to everyone for using Alexa, That is the greatest pleasure we have !
-
-### Asad– History
-
-<a href="https://www.youtube.com/JankariKiDuniya"><img src="https://img.shields.io/badge/Join-Subscribe%20Support-blue.svg?style=for-the-badge&logo=YouTube"></a>
+> ⭐️ Thanks to everyone for using Craxy, That is the greatest pleasure we have !
 
 ## Features ❤️”®
 
@@ -47,7 +43,7 @@
 - `/lyric <song name>` - lyrics scrapper
 - `/vk <song name>` - generate song without download
 
-#### Admins Only 😜
+#### Admins Only 😈
 - `/player` - open music player settings panel
 - `/pause` - pause song play
 - `/resume` - resume song play
@@ -64,14 +60,14 @@
 - `/deauth` - deauthorized people to access the admin commands
 - `/control` - open the music player control panel
 
-### Sudo User ❣️
+### Sudo User 👿
 - `/stats` - see the bot statistic
 - `/pmpermit on | off` turn on/off the assistant pmpermit
 - `/leaveall` - order the assistant to leave all groups
 - `/gban` - gban user
 
 
-### Owner Only 🕺
+### Owner Only ⚡
 - `/broadcast` - send a broadcast message from the bot
 - `/block` - block people for using your bot
 - `/unblock` - unblock people you blocked for using your bot
@@ -89,7 +85,7 @@
 - [ᴛᴇʟᴇɢʀᴀᴍ ᴀᴘɪ ᴋᴇʏ](https://docs.pyrogram.org/intro/setup#api-keys)
 - [ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴛᴏᴋᴇɴ](https://t.me/botfather)
 - [ᴍᴏɴɢᴏᴅʙ URI](https://telegra.ph/How-To-get-Mongodb-URI-04-06)
-- [sᴛʀɪɴɢ sᴇssɪᴏɴ](https://t.me/StringGeneratorRobot)
+- [sᴛʀɪɴɢ sᴇssɪᴏɴ](https://t.me/MarrkStringBot)
     
 </details>
 
@@ -104,7 +100,7 @@
 <p><a href="https://replit.com/@AssadAli/String-Session-Generator"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
 
 <h4> ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ ᴠɪᴀ ᴛᴇʟᴇɢʀᴀᴍ sᴛʀɪɴɢ-ɢᴇɴ ʙᴏᴛ: </h4>    
-<p><a href="https://t.me/Pyrogram_String_Bot"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
+<p><a href="https://t.me/MarrkStringBot"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
     
 </details>
 
@@ -116,7 +112,7 @@
 > ʙʏ sᴇᴛᴛɪɴɢ ᴛʜᴏsᴇ ᴛᴡᴏ ᴠᴀʀs ʏᴏᴜ ᴄᴀɴ ɢᴇᴛ ʟᴏɢs ᴏғ ʏᴏᴜʀ ʜᴇʀᴏᴋᴜ ᴀᴘᴘ, sᴇᴛ ᴠᴀʀ, ᴇᴅɪᴛ ᴠᴀʀ, ᴅᴇʟᴇᴛᴇ ᴠᴀʀs , ᴄʜᴇᴄᴋ ᴅʏɴᴏ ᴜsᴀɢᴇ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇ ʙᴏᴛ. 
 > ᴛʜᴏsᴇ ᴛᴡᴏ ᴠᴀʀs ᴀʀᴇ ɴᴏᴛ ᴍᴀɴᴅᴀᴛᴏʀʏ, ʏᴏᴜ ᴄᴀɴ ʟᴇᴀᴠᴇ ᴛʜᴇᴍ ʙʟᴀɴᴋ ᴛᴏᴏ. 
     
-<h4> ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʏᴜᴋᴋɪ ᴏɴ ʜᴇʀᴏᴋᴜ</h4>    
+<h4> ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴄʀᴀxʏ ᴏɴ ʜᴇʀᴏᴋᴜ</h4>    
 <p><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fjankarikiduniya%2FAlexaMusicBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
     
 </details>
@@ -131,10 +127,8 @@
 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-- [ᴀsᴀᴅ ᴀʟɪ](https://t.me/Dr_Asad_Ali)
-- [ʜᴀʀsʜɪᴛ](https://t.me/HarshitSharma361)
-- [Abhimanyu](https://t.me/Itz_Venom_xD)
-- [ʏᴜᴋᴋɪ](https://github.com/NotReallyShikhar)
+- [ᴋᴀᴋᴀ](https://t.me/K_A_k_A_03)
+- [ᴍᴀʀʀᴋ](https://t.me/marrk85)
 
 </details>
 
@@ -142,8 +136,7 @@
 <summary><b>ʙʀᴏᴛʜᴇʀ</b></summary>
 <br>
 
-- [ᴍᴜᴋᴜ](https://t.me/LEGEND_MUKUND)
-- [ᴅᴇᴠɪʟ](https://t.me/its_devil_911)
+- [ᴏᴍᴍ](https://t.me/Omm0626)
 
 </details>
 
@@ -152,10 +145,10 @@
 <br>
 
 # ❤️ Support
-<a href="https://t.me/AsadSupport"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/Shayri_Music_Lovers"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-<a href="https://t.me/Give_Me_Heart"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
-<a href="https://t.me/Alexa_Help"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
+<a href="https://t.me/marrkchannel"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/marrkmusic"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+
+
 
 </details>
 
