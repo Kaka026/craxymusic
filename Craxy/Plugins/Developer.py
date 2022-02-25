@@ -1,8 +1,7 @@
-# A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
+# A Powerful ᴄʀᴀxʏ Music Bot Property Of marrkmusic Chatting Group
 # Without Credit (Mother Fucker)
-# Rocks © @Dr_Asad_Ali © Rocks
-# Owner Asad Ali
-# Harshit Sharma
+# Owner @K_A_k_A_03
+# co owner @marrk85
 
 
 import os
@@ -28,7 +27,7 @@ from Alexa.Utilities.tasks import add_task, rm_task
 __MODULE__ = "🪂 ʙʀᴏᴀᴅᴄᴀsᴛ"
 __HELP__ = """
 **ɴᴏᴛᴇ:**
-ᴏɴʟʏ ғᴏʀ sᴜᴅᴏ ᴜsᴇʀs.
+ʙᴀʙʏ ᴏɴʟʏ ғᴏʀ sᴜᴅᴏ ᴜsᴇʀs.
 
 
 `/broadcast` [ᴍᴇssᴀɢᴇ ᴏʀ ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴍᴇssᴀɢᴇ]
@@ -42,7 +41,7 @@ __HELP__ = """
 `/broadcast_pin_loud` [ᴍᴇssᴀɢᴇ ᴏʀ ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴍᴇssᴀɢᴇ]
 - ʙʀᴏᴀᴅᴄᴀsᴛ ᴀɴʏ ᴍᴇssᴀɢᴇ ᴛᴏ ʙᴏᴛ's sᴇʀᴠᴇᴅ ᴄʜᴀᴛs ᴡɪᴛʜ ᴍᴇssᴀɢᴇ ɢᴇᴛᴛɪɴɢ ᴘɪɴɴᴇᴅ ɪɴ ᴄʜᴀᴛ [ᴇɴᴀʙʟᴇᴅ ɴᴏᴛɪғɪᴄᴀᴛɪᴏɴs].
 
-- ᴘᴏᴡᴇʀᴅ ʙʏ 😍 ʀᴏᴄᴋs ᴀɴᴅ @AsadSupport
+- ᴘᴏᴡᴇʀᴅ ʙʏ 😍 @K_A_k_A_03
 """
 
 
