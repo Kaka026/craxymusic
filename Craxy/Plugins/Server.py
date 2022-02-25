@@ -1,8 +1,7 @@
-# A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
+# A Powerful ᴄʀᴀxʏ Music Bot Property Of marrkmusic Chatting Group
 # Without Credit (Mother Fucker)
-# Rocks © @Dr_Asad_Ali © Rocks
-# Owner Asad Ali
-# Harshit Sharma
+# Owner @K_A_k_A_03
+# co owner @marrk85
 
 
 import asyncio
@@ -59,7 +58,7 @@ __HELP__ = f"""
 /restart 
 - Restart Bot [All downloads, cache, raw files will be cleared too]. 
 
-- ᴘᴏᴡᴇʀᴅ ʙʏ 😍 ʀᴏᴄᴋs ᴀɴᴅ @AsadSupport.
+- ᴘᴏᴡᴇʀᴅ ʙʏ 😍 @marrk85 ᴀɴᴅ @K_A_k_A_03
 """
 
 
