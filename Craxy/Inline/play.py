@@ -1,15 +1,14 @@
-# A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
+# A Powerful ᴄʀᴀxʏ Music Bot Property Of marrkmusic Chatting Group
 # Without Credit (Mother Fucker)
-# Rocks © @Dr_Asad_Ali © Rocks
-# Owner Asad Ali
-# Harshit Sharma
+# Owner @K_A_k_A_03
+# co owner @marrk85
 
 
 from pyrogram.types import (CallbackQuery, InlineKeyboardButton,
 
                             InlineKeyboardMarkup, InputMediaPhoto, Message)
 
-from Alexa import db_mem
+from Craxy import db_mem
 
 def url_markup(videoid, duration, user_id, query, query_type):
 
@@ -319,7 +318,7 @@ def secondary_markup(videoid, user_id):
 
         [
 
-            InlineKeyboardButton(text="💥 ɴᴇᴛᴡᴏʀᴋ 💞", url=f"https://t.me/Shayri_Music_Lovers"),
+            InlineKeyboardButton(text="⚡ ɴᴇᴛᴡᴏʀᴋ 🖤", url=f"https://t.me/marrkmusic"),
 
         ],
 
@@ -331,7 +330,7 @@ def secondary_markup(videoid, user_id):
 
             ),
 
-            InlineKeyboardButton(text="❤️ ᴏᴡɴᴇʀ ❤️", url=f"https://t.me/Dr_Asad_Ali"),
+            InlineKeyboardButton(text="✨ ᴏᴡɴᴇʀ ✨", url=f"https://t.me/K_A_k_A_03"),
 
         ],
 
@@ -345,13 +344,13 @@ def secondary_markup2(videoid, user_id):
 
         [
 
-            InlineKeyboardButton(text="💥 ᴀʟᴇxᴀ ᴄʜᴀᴛ 💞⁩", url=f"https://t.me/Alexa_Help"),
+            InlineKeyboardButton(text="⚡ ᴄʀᴀxʏ ᴄʜᴀᴛ 🖤⁩", url=f"https://t.me/marrkmusic"),
 
         ],
 
         [
 
-            InlineKeyboardButton(text="❤️ sᴜᴘᴘᴏʀᴛ ❤️", url=f"https://t.me/Asad_Support"),
+            InlineKeyboardButton(text="💫 sᴜᴘᴘᴏʀᴛ 💫", url=f"https://t.me/marrkchannel"),
 
         ],
 
@@ -383,7 +382,7 @@ def primary_markup(videoid, user_id, current_time, total_time):
 
         [
 
-            InlineKeyboardButton(text="💥 ᴀʟᴇxᴀ ᴄʜᴀᴛ 💞", url=f"https://t.me/Alexa_Help"),
+            InlineKeyboardButton(text="⚡ ᴄʀᴀxʏ ᴄʜᴀᴛ 🖤", url=f"https://t.me/marrkmusic"),
 
         ],
 
@@ -395,7 +394,7 @@ def primary_markup(videoid, user_id, current_time, total_time):
 
             ),
 
-            InlineKeyboardButton(text="❤️ ᴏᴡɴᴇʀ ❤️", url=f"https://t.me/Dr_Asad_Ali"),
+            InlineKeyboardButton(text="✨ ᴏᴡɴᴇʀ ✨", url=f"https://t.me/K_A_k_A_03"),
 
         ],
 
@@ -421,7 +420,7 @@ def timer_markup(videoid, user_id, current_time, total_time):
 
         [
 
-            InlineKeyboardButton(text="💥 ᴀʟᴇxᴀ ᴄʜᴀᴛ 💞", url=f"https://t.me/Alexa_Help"),
+            InlineKeyboardButton(text="⚡ ᴄʀᴀxʏ ᴄʜᴀᴛ 🖤", url=f"https://t.me/marrkmusic"),
 
         ],
 
@@ -433,7 +432,7 @@ def timer_markup(videoid, user_id, current_time, total_time):
 
             ),
 
-            InlineKeyboardButton(text="❤️ ᴏᴡɴᴇʀ ❤️", url=f"https://t.me/Dr_Asad_Ali"),
+            InlineKeyboardButton(text="✨ ᴏᴡɴᴇʀ ✨", url=f"https://t.me/K_A_k_A_03"),
 
         ],
 
@@ -465,11 +464,11 @@ def audio_markup(videoid, user_id, current_time, total_time):
 
         [
 
-            InlineKeyboardButton(text="💥 ɴᴇᴛᴡᴏʀᴋ 💞", url=f"https://t.me/Shayri_Music_Lovers"),
+            InlineKeyboardButton(text="⚡ ɴᴇᴛᴡᴏʀᴋ 🖤", url=f"https://t.me/marrkmusic"),
 
         ],
 
-        [InlineKeyboardButton(text="❤️ ᴏᴡɴᴇʀ ❤️", url=f"https://t.me/Dr_Asad_Ali")],
+        [InlineKeyboardButton(text="✨ ᴏᴡɴᴇʀ ✨", url=f"https://t.me/K_A_k_A_03")],
 
     ]
 
@@ -493,11 +492,11 @@ def audio_timer_markup_start(videoid, user_id, current_time, total_time):
 
         [
 
-            InlineKeyboardButton(text="💥 ᴀʟᴇxᴀ ᴄʜᴀᴛ 💞⁩", url=f"https://t.me/Alexa_Help"),
+            InlineKeyboardButton(text="⚡ ᴄʀᴀxʏ ᴄʜᴀᴛ 🖤", url=f"https://t.me/marrkmusic"),
 
         ],
 
-        [InlineKeyboardButton(text="❤️ ᴏᴡɴᴇʀ ❤️", url=f"https://t.me/Dr_Asad_Ali")],
+        [InlineKeyboardButton(text="✨ ᴏᴡɴᴇʀ ✨", url=f"https://t.me/K_A_k_A_03")],
 
     ]
 
@@ -509,11 +508,11 @@ audio_markup2 = InlineKeyboardMarkup(
 
         [
 
-            InlineKeyboardButton(text="💥 ᴀʟᴇxᴀ ᴄʜᴀᴛ 💞", url=f"https://t.me/Alexa_Help"),
+            InlineKeyboardButton(text="⚡ ᴄʀᴀxʏ ᴄʜᴀᴛ 🖤", url=f"https://t.me/marrkmusic"),
 
         ],
 
-        [InlineKeyboardButton(text="❤️ ᴏᴡɴᴇʀ ❤️", url=f"https://t.me/Dr_Asad_Ali")],
+        [InlineKeyboardButton(text="✨ ᴏᴡɴᴇʀ ✨", url=f"https://t.me/K_A_k_A_03")],
 
     ]
 
