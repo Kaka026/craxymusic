@@ -1,8 +1,7 @@
-# A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
+# A Powerful ᴄʀᴀxʏ Music Bot Property Of marrkmusic Chatting Group
 # Without Credit (Mother Fucker)
-# Rocks © @Dr_Asad_Ali © Rocks
-# Owner Asad Ali
-# Harshit Sharma
+# Owner @K_A_k_A_03
+# co owner @marrk85
 
 
 
@@ -21,7 +20,7 @@ __HELP__ = """
 
 
 **ɴᴏᴛᴇ:**
-ᴏɴʟʏ ғᴏʀ sᴜᴅᴏ ᴜsᴇʀs.
+ʙᴀʙʏ ᴏɴʟʏ ғᴏʀ sᴜᴅᴏ ᴜsᴇʀs.
 
 
 `/blacklistchat` [ᴄʜᴀᴛ_ɪᴅ] 
@@ -31,7 +30,7 @@ __HELP__ = """
 `/whitelistchat` [ᴄʜᴀᴛ_ɪᴅ] 
 - ᴡʜɪᴛᴇʟɪsᴛ ᴀɴʏ ʙʟᴀᴄᴋʟɪsᴛᴇᴅ ᴄʜᴀᴛ ғʀᴏᴍ ᴜsɪɴɢ ᴍᴜsɪᴄ ʙᴏᴛ
 
-- ᴘᴏᴡᴇʀᴅ ʙʏ 😍 ʀᴏᴄᴋs ᴀɴᴅ @AsadSupport
+- ᴘᴏᴡᴇʀᴅ ʙʏ 😍 ʀᴏᴄᴋs ᴀɴᴅ @K_A_k_A_03
 
 """
 
@@ -44,11 +43,11 @@ async def blacklist_chat_func(_, message: Message):
         )
     chat_id = int(message.text.strip().split()[1])
     if chat_id in await blacklisted_chats():
-        return await message.reply_text("ᴄʜᴀᴛ ɪs ᴀʟʀᴇᴀᴅʏ ʙʟᴀᴄᴋʟɪsᴛᴇᴅ...")
+        return await message.reply_text("ʙᴀʙʏ ᴄʜᴀᴛ ɪs ᴀʟʀᴇᴀᴅʏ ʙʟᴀᴄᴋʟɪsᴛᴇᴅ...")
     blacklisted = await blacklist_chat(chat_id)
     if blacklisted:
         return await message.reply_text(
-            "ᴄʜᴀᴛ ʜᴀs ʙᴇᴇɴ sᴜᴄᴄᴇssғᴜʟʟʏ ʙʟᴀᴄᴋʟɪsᴛᴇᴅ"
+            "ʙᴀʙʏ ᴄʜᴀᴛ ʜᴀs ʙᴇᴇɴ sᴜᴄᴄᴇssғᴜʟʟʏ ʙʟᴀᴄᴋʟɪsᴛᴇᴅ"
         )
     await message.reply_text("sᴏᴍᴇᴛʜɪɴɢ ᴡʀᴏɴɢ ʜᴀᴘᴘᴇɴᴇᴅ, ᴄʜᴇᴄᴋ ʟᴏɢs...")
 
@@ -61,11 +60,11 @@ async def whitelist_chat_func(_, message: Message):
         )
     chat_id = int(message.text.strip().split()[1])
     if chat_id not in await blacklisted_chats():
-        return await message.reply_text("ᴄʜᴀᴛ ɪs ᴀʟʀᴇᴀᴅʏ ᴡʜɪᴛᴇʟɪsᴛᴇᴅ...")
+        return await message.reply_text("ʙᴀʙʏ ᴄʜᴀᴛ ɪs ᴀʟʀᴇᴀᴅʏ ᴡʜɪᴛᴇʟɪsᴛᴇᴅ...")
     whitelisted = await whitelist_chat(chat_id)
     if whitelisted:
         return await message.reply_text(
-            "ᴄʜᴀᴛ ʜᴀs ʙᴇᴇɴ sᴜᴄᴄᴇssғᴜʟʟʏ ᴡʜɪᴛᴇ ʟɪsᴛᴇᴅ..."
+            "ʙᴀʙʏ ᴄʜᴀᴛ ʜᴀs ʙᴇᴇɴ sᴜᴄᴄᴇssғᴜʟʟʏ ᴡʜɪᴛᴇ ʟɪsᴛᴇᴅ..."
         )
     await message.reply_text("sᴏᴍᴇᴛʜɪɴɢ ᴡʀᴏɴɢ ʜᴀᴘᴘᴇɴᴇᴅ, ᴄʜᴇᴄᴋ ʟᴏɢs...")
 
