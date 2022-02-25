@@ -4,7 +4,7 @@ from config import (API_HASH, API_ID, BOT_TOKEN, LOG_SESSION, STRING1, STRING2,
                     STRING3, STRING4, STRING5)
 
 app = Client(
-    "AlexaMusicBot",
+    "𝘾𝙍𝘼𝙓𝙔 ✘ 𝙈𝙐𝙎𝙄𝘾",
     API_ID,
     API_HASH,
     bot_token=BOT_TOKEN,
@@ -18,7 +18,7 @@ else:
         api_id=API_ID,
         api_hash=API_HASH,
         session_name=STRING1,
-        plugins=dict(root="Alexa.Plugins.Multi-Assistant"),
+        plugins=dict(root="Craxy.Plugins.Multi-Assistant"),
     )
 
 
@@ -29,7 +29,7 @@ else:
         api_id=API_ID,
         api_hash=API_HASH,
         session_name=STRING2,
-        plugins=dict(root="Alexa.Plugins.Multi-Assistant"),
+        plugins=dict(root="Craxy.Plugins.Multi-Assistant"),
     )
 
 
@@ -40,7 +40,7 @@ else:
         api_id=API_ID,
         api_hash=API_HASH,
         session_name=STRING3,
-        plugins=dict(root="Alexa.Plugins.Multi-Assistant"),
+        plugins=dict(root="Craxy.Plugins.Multi-Assistant"),
     )
 
 
@@ -51,7 +51,7 @@ else:
         api_id=API_ID,
         api_hash=API_HASH,
         session_name=STRING4,
-        plugins=dict(root="Alexa.Plugins.Multi-Assistant"),
+        plugins=dict(root="Craxy.Plugins.Multi-Assistant"),
     )
 
 
@@ -62,7 +62,7 @@ else:
         api_id=API_ID,
         api_hash=API_HASH,
         session_name=STRING5,
-        plugins=dict(root="Alexa.Plugins.Multi-Assistant"),
+        plugins=dict(root="Craxy.Plugins.Multi-Assistant"),
     )
 
 
