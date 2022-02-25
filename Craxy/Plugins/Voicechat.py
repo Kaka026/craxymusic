@@ -1,8 +1,7 @@
-# A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
+# A Powerful ᴄʀᴀxʏ Music Bot Property Of marrkmusic Chatting Group
 # Without Credit (Mother Fucker)
-# Rocks © @Dr_Asad_Ali © Rocks
-# Owner Asad Ali
-# Harshit Sharma
+# Owner @K_A_k_A_03
+# co owner @marrk85
 
 
 
@@ -30,7 +29,7 @@ __MODULE__ = "🌺 ɪɴᴠɪᴛᴇ"
 __HELP__ = """
 
 **ɴᴏᴛᴇ:**
-ᴏɴʟʏ ғᴏʀ sᴜᴅᴏ ᴜsᴇʀs
+ʙᴀʙʏ ᴏɴʟʏ ғᴏʀ sᴜᴅᴏ ᴜsᴇʀs
 
 
 `/joinassistant` [ᴄʜᴀᴛ ᴜsᴇʀɴᴀᴍᴇ ᴏʀ ᴄʜᴀᴛ ɪᴅ]
@@ -44,7 +43,7 @@ __HELP__ = """
 `/leavebot` [ᴄʜᴀᴛ ᴜsᴇʀɴᴀᴍᴇ ᴏʀ ᴄʜᴀᴛ ɪᴅ]
 - ʙᴏᴛ ᴡɪʟʟ ʟᴇᴀᴠᴇ ᴛʜᴇ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴄʜᴀᴛ.
 
-- ᴘᴏᴡᴇʀᴅ ʙʏ 😍 ʀᴏᴄᴋs ᴀɴᴅ @AsadSupport.
+- ᴘᴏᴡᴇʀᴅ ʙʏ 😍 @marrk85 ᴀɴᴅ @K_A_k_A_03
 """
 
 @app.on_callback_query(filters.regex("gback_list_chose_stream"))
